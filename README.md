@@ -1,4 +1,7 @@
 # 🎨 Maria Karra – Artist Portfolio Website
+
+https://biremestudios.com/mariakarra/index.html
+
 This is a responsive portfolio website created for Maria Karra, a contemporary artist working at the intersection of fine arts, game design, and interdisciplinary research. The site showcases her solo and group exhibitions, as well as publications, providing a clean and modern platform to present her artistic journey and research-based work.
 
 ![image](https://github.com/user-attachments/assets/903b13cc-0056-4067-882e-98ac6761ff48)
